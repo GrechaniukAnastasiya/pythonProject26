@@ -16,3 +16,11 @@ def example_function(x):
     time.sleep(1) #pass
     return x
 print(example_function(666))
+
+#1
+urfyhrofgi '  u]' \
+           '' \
+           'ofjiogju' \
+           'fhjehfuiewh' \
+    dvfjrify
+    oduue
